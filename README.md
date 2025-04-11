@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Pinterest-Login-Signup-Clone-
+A responsive login/signup interface inspired by Pinterest. Built with React, this project includes Google Sign-In functionality, form validation, and smooth navigation between login and signup pages using React Router.
+>>>>>>> 3717c47dc083ef6b9b216be30563adc90fc7f345
