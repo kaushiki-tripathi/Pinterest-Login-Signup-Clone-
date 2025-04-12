@@ -23,6 +23,9 @@
 
 <h3 align="center">Signup Page</h3>
 
+![image](https://github.com/user-attachments/assets/2be24a6a-a80e-4da7-a2f1-187976cb6664)
+
+
 # 🛠️ Tech Stack
 
 - React 
