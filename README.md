@@ -15,6 +15,14 @@
   
 -  Responsive design
 
+# Photographs
+
+<h3 align="center">Login Page</h3>
+
+![image](https://github.com/user-attachments/assets/930f6202-3566-451b-99df-75a08952e36c)
+
+<h3 align="center">Signup Page</h3>
+
 # 🛠️ Tech Stack
 
 - React 
